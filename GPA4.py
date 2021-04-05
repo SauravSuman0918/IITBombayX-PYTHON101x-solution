@@ -1,4 +1,4 @@
-#put this code in your main file
+#put this code in answer.py
 def date2tuple(m):
    m=m.replace(',',' ')
    dt,mt,y=m.split()
