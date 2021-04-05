@@ -8,9 +8,9 @@ def oddeven(lst):
     for i in lst:
         if i%2 !=0:
             j=j+i
-            countodd=+1
+            countodd+=1
         else:
-            counteven=+1
+            counteven+=1
             m=m*i
             
     mst.append(j)     
