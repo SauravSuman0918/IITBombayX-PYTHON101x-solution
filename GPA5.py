@@ -16,3 +16,5 @@ def oddeven(lst):
     mst.append(j)     
     mst.append(m)
     return tuple(mst)
+# changes in main.py
+# ans = oddeven([1,2,3,4,5])  put this line in place of  ans = oddeven("29 Jul, 2009")
